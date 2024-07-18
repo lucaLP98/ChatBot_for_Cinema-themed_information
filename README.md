@@ -1,5 +1,5 @@
 # ChatBot For Cinema-themed Information
-ChatBot for question answering operations on the cinema domain. In collaboration with Christian Menna (@thewizard322) and Antonio Ciccarelli.
+ChatBot for question answering operations on the cinema domain. In collaboration with Christian Menna ( @thewizard322 ) and Antonio Ciccarelli.
 
 # Objective
 Development of a Question Answering (QA) ChatBot based on the LangChain framework that includes the following modules:
